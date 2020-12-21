@@ -1,4 +1,4 @@
-# n8n - Workflow Automation Tool : for financial purposes 
+# DeFI-Bricks - Workflow Automation Tool : for financial purposes 
 
 
 # Full credits to ![n8n.io - Workflow Automation](https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png)
